@@ -22,6 +22,10 @@ class App extends React.Component {
     }));
   };
 
+  //constructor -> rendering -> componentDidMount
+  //render -> componentDidUpdate
+  //componentWillUnmount 
+
   componentDidMount() {
     console.log('component rendered')
   }
