@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/yunchan312/DoIt-CloneCoding/static/css/main.247fd004.chunk.css",
+    "main.js": "/yunchan312/DoIt-CloneCoding/static/js/main.74c5a912.chunk.js",
+    "main.js.map": "/yunchan312/DoIt-CloneCoding/static/js/main.74c5a912.chunk.js.map",
+    "runtime-main.js": "/yunchan312/DoIt-CloneCoding/static/js/runtime-main.d92a3b9b.js",
+    "runtime-main.js.map": "/yunchan312/DoIt-CloneCoding/static/js/runtime-main.d92a3b9b.js.map",
+    "static/js/2.868973a5.chunk.js": "/yunchan312/DoIt-CloneCoding/static/js/2.868973a5.chunk.js",
+    "static/js/2.868973a5.chunk.js.map": "/yunchan312/DoIt-CloneCoding/static/js/2.868973a5.chunk.js.map",
+    "index.html": "/yunchan312/DoIt-CloneCoding/index.html",
+    "static/css/main.247fd004.chunk.css.map": "/yunchan312/DoIt-CloneCoding/static/css/main.247fd004.chunk.css.map",
+    "static/js/2.868973a5.chunk.js.LICENSE.txt": "/yunchan312/DoIt-CloneCoding/static/js/2.868973a5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d92a3b9b.js",
+    "static/js/2.868973a5.chunk.js",
+    "static/css/main.247fd004.chunk.css",
+    "static/js/main.74c5a912.chunk.js"
+  ]
+}
